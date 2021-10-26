@@ -21,11 +21,3 @@ rem_months = 12 * 90 - current_lived_months
 rem_weeks = 52 * 90 - current_lived_weeks
 
 print(f"You have {rem_days} days, {rem_weeks} weeks, and {rem_months} months left. ")
-
-
-
-
-
-
-
-
